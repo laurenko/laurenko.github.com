@@ -17,20 +17,20 @@ class Footer extends React.Component {
           </a>
         </div>
         <a
-          href="https://mobile.twitter.com/dan_abramov"
+          href="https://www.linkedin.com/in/laurenko"
           target="_blank"
           rel="noopener noreferrer"
         >
-          twitter
+          linkedin
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://github.com/laurenko"
+          href="https://github.com/Laurenko"
           target="_blank"
           rel="noopener noreferrer"
         >
           github
-        </a>{' '}
+        </a>
       </footer>
     );
   }

@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "laurenko",
   "bugs": {
-    "url": "https://github.com/gaearon/overreacted.io/issues"
+    "url": "https://github.com/laurenko/laurenko.github.com/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.76",

@@ -7,7 +7,7 @@ const { supportedLanguages } = require('./i18n');
 exports.createPages = ({ graphql, actions }) => {
   const { createPage, createRedirect } = actions;
 
-  // Oops
+  /*// Oops
   createRedirect({
     fromPath: '/zh_TW/things-i-dont-know-as-of-2018/',
     toPath: '/zh-hant/things-i-dont-know-as-of-2018/',
@@ -27,7 +27,7 @@ exports.createPages = ({ graphql, actions }) => {
     toPath: '/making-setinterval-declarative-with-react-hooks/',
     isPermanent: true,
     redirectInBrowser: true,
-  });
+  });*/
 
   return new Promise((resolve, reject) => {
     const blogPost = path.resolve('./src/templates/blog-post.js');

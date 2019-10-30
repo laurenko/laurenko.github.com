@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Laurenko',
-    author: 'Laurenko',
-    description: 'Personal blog by Laurenko. I explain with words and code.',
+    title: 'LaurenKo',
+    author: 'LaurenKo',
+    description: 'Personal blog by LaurenKo. Simple explanation through examples.',
     siteUrl: 'https://overreacted.io',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@laurenko',
     },
   },
   pathPrefix: '/',
@@ -56,7 +56,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-148346018-1`,
+        trackingId: `UA-130227707-1`,
       },
     },
     {
@@ -134,8 +134,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Laurenko`,
-        short_name: `Laurenko`,
+        name: `Overreacted`,
+        short_name: `Overreacted`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,
