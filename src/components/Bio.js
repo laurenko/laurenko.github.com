@@ -25,7 +25,7 @@ class Bio extends React.Component {
         <p style={{ maxWidth: 310 }}>
           Personal blog by{' '}
           <a href="https://www.linkedin.com/in/laurenko">LaurenKo</a>.{' '}
-          I&nbsp;explain with words and code.
+          I&nbsp;Try to explain anything in its simplest form.
         </p>
       </div>
     );
