@@ -3,7 +3,7 @@ module.exports = {
     title: 'LaurenKo',
     author: 'LaurenKo',
     description: 'Personal blog by LaurenKo. Simple explanation through examples.',
-    siteUrl: 'https://overreacted.io',
+    siteUrl: 'https://laurenko.github.io',
     social: {
       twitter: '@laurenko',
     },
@@ -134,11 +134,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Overreacted`,
-        short_name: `Overreacted`,
+        name: `LaurenKo`,
+        short_name: `LaurenKo`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#ffa7c4`,
+        theme_color: `#df78ef`,
         display: `minimal-ui`,
         icon: `src/assets/icon.png`,
         theme_color_in_head: false,
